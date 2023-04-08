@@ -25,14 +25,14 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
+- Python - version 3.11
 - Tech 2 - version 2.0
 - Tech 3 - version 3.0
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
+- It works!
 - Awesome feature 2
 - Awesome feature 3
 
@@ -56,7 +56,7 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_ <!-- / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why. --> 
 
 
 ## Room for Improvement
@@ -67,15 +67,16 @@ Room for improvement:
 - Improvement to be done 2
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Backend
+- Frontend
+- Database
 
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
+- This project was inspired by Jimeno
 - This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- Many thanks to Tabata & Katy
 
 
 ## Contact
