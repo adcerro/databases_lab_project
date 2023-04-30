@@ -1,6 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Covid-19 Data presnetation
+> This is the lab project for the 2023-10 databases class.
+> Live demo [_here_](https://adcerro-databases-lab-project-testing-hsy24w.streamlit.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -26,15 +26,15 @@
 
 ## Technologies Used
 - Python - version 3.11
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Streamlit - version 1.21.0
+- Openpyxl - version 3.1.12
 
 
 ## Features
 List the ready features here:
-- It works!
-- Awesome feature 2
-- Awesome feature 3
+- It kinda works!
+- A side bar
+- it uses an sql database
 
 
 ## Screenshots
